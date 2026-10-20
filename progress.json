@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T09:12:03.930Z",
+  "generated_at": "2026-10-20T09:22:12.758Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -62,9 +62,9 @@
       "url": "https://www.deep-ml.com/problems/30",
       "path": "problems/0030-batch-iterator-for-dataset",
       "first_solved_at": "2026-10-20T09:12:03.779Z",
-      "last_pushed_at": "2026-10-20T09:12:03.779Z",
+      "last_pushed_at": "2026-10-20T09:21:53.562Z",
       "language": "python",
-      "lines": 18
+      "lines": 17
     }
   }
 }
