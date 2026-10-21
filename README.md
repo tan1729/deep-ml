@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 9 problems · 0 labs · 0 math
+**10** solved · 10 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-10-20 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-10-21 | [solution](problems/0036-calculate-accuracy-score) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-10-19 | [solution](problems/0016-feature-scaling-implementation) |
+| [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-10-21 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-10-21 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-10-21 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-10-19 | [solution](problems/0015-linear-regression-using-gradient-descent) |
