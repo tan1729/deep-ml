@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 16 problems · 0 labs · 0 math
+**17** solved · 17 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-10-20 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-10-21 | [solution](problems/0036-calculate-accuracy-score) |
+| [Calculate Dice Score for Classification](https://www.deep-ml.com/problems/73) | easy | 2026-10-22 | [solution](problems/0073-calculate-dice-score-for-classification) |
 | [Calculate Jaccard Index for Binary Classification](https://www.deep-ml.com/problems/72) | easy | 2026-10-22 | [solution](problems/0072-calculate-jaccard-index-for-binary-classification) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-10-21 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-10-21 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
