@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**35** solved · 35 problems · 0 labs · 0 math
+**36** solved · 36 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-10-21 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-10-21 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-10-21 | [solution](problems/0045-linear-kernel-function) |
+| [Linear Learning Rate Decay](https://www.deep-ml.com/problems/377) | easy | 2026-10-28 | [solution](problems/0377-linear-learning-rate-decay) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-10-19 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-19 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Measure Disorder in Apple Colors](https://www.deep-ml.com/problems/108) | easy | 2026-10-25 | [solution](problems/0108-measure-disorder-in-apple-colors) |
