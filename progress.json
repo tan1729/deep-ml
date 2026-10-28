@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T07:27:54.836Z",
+  "generated_at": "2026-10-28T08:01:21.533Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -416,6 +416,19 @@
       "last_pushed_at": "2026-10-28T07:27:53.812Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:305": {
+      "kind": "problem",
+      "id": "305",
+      "title": "Implement Hard Voting Classifier",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/305",
+      "path": "problems/0305-implement-hard-voting-classifier",
+      "first_solved_at": "2026-10-28T08:01:20.841Z",
+      "last_pushed_at": "2026-10-28T08:01:20.841Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
