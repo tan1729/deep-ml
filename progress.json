@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T15:14:55.293Z",
+  "generated_at": "2026-10-29T15:32:29.352Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -533,6 +533,19 @@
       "last_pushed_at": "2026-10-29T15:14:54.533Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:716": {
+      "kind": "problem",
+      "id": "716",
+      "title": "Build a Latent-to-Real Action Mapping from a Small Labeled Set",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/716",
+      "path": "problems/0716-build-a-latent-to-real-action-mapping-from-a-small-labeled-set",
+      "first_solved_at": "2026-10-29T15:32:27.905Z",
+      "last_pushed_at": "2026-10-29T15:32:27.905Z",
+      "language": "python",
+      "lines": 84
     }
   }
 }

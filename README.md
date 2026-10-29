@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**41** solved · 41 problems · 0 labs · 0 math
+**42** solved · 42 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-10-20 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Bernoulli Masking Schedule for Masked Token Prediction](https://www.deep-ml.com/problems/708) | easy | 2026-10-29 | [solution](problems/0708-bernoulli-masking-schedule-for-masked-token-prediction) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-10-25 | [solution](problems/0104-binary-classification-with-logistic-regression) |
+| [Build a Latent-to-Real Action Mapping from a Small Labeled Set](https://www.deep-ml.com/problems/716) | easy | 2026-10-29 | [solution](problems/0716-build-a-latent-to-real-action-mapping-from-a-small-labeled-set) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-10-21 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Dice Score for Classification](https://www.deep-ml.com/problems/73) | easy | 2026-10-22 | [solution](problems/0073-calculate-dice-score-for-classification) |
 | [Calculate F1 Score from Predicted and True Labels](https://www.deep-ml.com/problems/91) | easy | 2026-10-22 | [solution](problems/0091-calculate-f1-score-from-predicted-and-true-labels) |
