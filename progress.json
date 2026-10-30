@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T08:33:22.721Z",
+  "generated_at": "2026-10-30T08:51:10.910Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -585,6 +585,19 @@
       "last_pushed_at": "2026-10-30T08:33:18.505Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:794": {
+      "kind": "problem",
+      "id": "794",
+      "title": "Combined RM and LLM Quality Filter",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/794",
+      "path": "problems/0794-combined-rm-and-llm-quality-filter",
+      "first_solved_at": "2026-10-30T08:51:10.648Z",
+      "last_pushed_at": "2026-10-30T08:51:10.648Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
