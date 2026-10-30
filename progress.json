@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T08:20:43.236Z",
+  "generated_at": "2026-10-30T08:33:22.721Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -572,6 +572,19 @@
       "last_pushed_at": "2026-10-30T08:20:43.262Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:778": {
+      "kind": "problem",
+      "id": "778",
+      "title": "Top Quartile Reward Score Filter",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/778",
+      "path": "problems/0778-top-quartile-reward-score-filter",
+      "first_solved_at": "2026-10-30T08:33:18.505Z",
+      "last_pushed_at": "2026-10-30T08:33:18.505Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**44** solved · 44 problems · 0 labs · 0 math
+**45** solved · 45 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -56,6 +56,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-10-26 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2026-10-26 | [solution](problems/0153-steplr-learning-rate-scheduler) |
 | [Taylor Series Approximation](https://www.deep-ml.com/problems/310) | easy | 2026-10-28 | [solution](problems/0310-taylor-series-approximation) |
+| [Top Quartile Reward Score Filter](https://www.deep-ml.com/problems/778) | easy | 2026-10-30 | [solution](problems/0778-top-quartile-reward-score-filter) |
 
 ---
 
