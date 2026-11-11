@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T07:10:13.578Z",
+  "generated_at": "2026-11-11T08:04:44.138Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -661,6 +661,19 @@
       "path": "problems/1217-compute-tpr-and-fpr-from-classifications",
       "first_solved_at": "2026-11-11T07:10:12.962Z",
       "last_pushed_at": "2026-11-11T07:10:12.962Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:1372": {
+      "kind": "problem",
+      "id": "1372",
+      "title": "Smooth L1 Loss with a Beta Parameter",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1372",
+      "path": "problems/1372-smooth-l1-loss-with-a-beta-parameter",
+      "first_solved_at": "2026-11-11T08:04:43.282Z",
+      "last_pushed_at": "2026-11-11T08:04:43.282Z",
       "language": "python",
       "lines": 29
     }
